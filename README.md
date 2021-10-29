@@ -1,7 +1,7 @@
 # Covid 19 Tracker App
 This is a [Covid-19 Tracker](https://wonderful-hopper-d30aa8.netlify.app/) built with Reactjs, Numeral, Chartjs-2 and React-Leaflet.
 
-## Frameworks used
+## Built with
 
 <ul>
   <li>Reactjs</li>
@@ -27,10 +27,21 @@ This is a [Covid-19 Tracker](https://wonderful-hopper-d30aa8.netlify.app/) built
   <li>How to manage state across different components</li>
   <li>Working with API's and displaying their data. I used https://www.disease.sh/ for this project</li>
   <li>Using Numeral in React to refactor numbers</li>
-  <li>Use of React props</li>
+  <li>Use of React hooks and props</li>
   <li>Using chartjs-2 to create a chart and pass data through it</li>
 </ul>
 
 ## Live Link
 [Covid 19 Tracker](https://wonderful-hopper-d30aa8.netlify.app/)
+
+## Installation process to run the project
+
+Clone the project `https://github.com/Heizal/covid-tracker.git`
+
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
